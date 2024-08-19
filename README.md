@@ -39,6 +39,7 @@ If you would like to contribute, please follow these steps:
 *“Pedo mellon a minno!”*
 
 **English:**
+
 *"Say, friend, and enter!"*
 
 **Turkish:**
